@@ -1,0 +1,4 @@
+datasets:
+- name: ned10m
+  path: data/ned10m/
+  filename_epsg: 4269
